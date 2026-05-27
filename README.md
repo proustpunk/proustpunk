@@ -5,7 +5,7 @@
 Backend developer • CS enthusiast • Systems thinker
 
 ## Links
-seeker13.itch.io
+Itch.io: https://seeker13.itch.io
 
 ---
 
