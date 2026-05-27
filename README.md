@@ -1,18 +1,31 @@
-"I will re-factor it later!"
+# proustpunk
 
-Who am I?
-        -Backend developer
-        -CS enthusiast & an academic
-        -Systems architect
+Backend developer • CS enthusiast • Systems thinker
 
-Languages:
-          -HTML
-          -JS
-          -Python
+---
 
-Frameworks:
-          -Django
-          -Unity
+## Who I Am
+Backend developer focused on building practical systems and experimental web applications.
 
+CS student with interest in system design and applied ML.
 
-  
+---
+
+## Languages
+- HTML
+- JavaScript
+- Python
+
+---
+
+## Frameworks & Tools
+- Django
+- Unity
+
+---
+
+## Current Focus
+- Resume screening system (ML + ranking)
+- Technical test platform with anti-cheating logic
+- Backend architecture experiments
+-Learning React
