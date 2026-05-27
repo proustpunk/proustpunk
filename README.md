@@ -1,16 +1,18 @@
-## Hi there 👋
+"I will re-factor it later!"
 
-<!--
-**proustpunk/proustpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I?
+        -Backend developer
+        -CS enthusiast & an academic
+        -Systems architect
 
-Here are some ideas to get you started:
+Languages:
+          -HTML
+          -JS
+          -Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks:
+          -Django
+          -Unity
+
+
+  
