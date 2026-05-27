@@ -12,9 +12,9 @@ CS student with interest in system design and applied ML.
 ---
 
 ## Languages
--C#
-- JavaScript
+ - JavaScript
 - Python
+- C#
 
 ---
 
