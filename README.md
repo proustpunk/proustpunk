@@ -2,7 +2,7 @@
 
 
 
-• AI-integration engineer • Backend developer • CS enthusiast • Systems thinker
+• AI-integration engineer • Backend developer • Systems thinker
 
 ## Links
 Itch.io: https://seeker13.itch.io
