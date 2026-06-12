@@ -31,7 +31,7 @@ Comfortable working across the full backend stack — from data pipelines to API
 
 ## 🚧 Projects
 
-### 📄 PDF Knowledge Tool
+### 📄 Study Made Easier - Talk to your PDF
 Ingest PDFs, extract structured notes, and surface semantically relevant content via vector search.
 Built on LangChain + ChromaDB — turns dense documents into queryable knowledge bases.
 
