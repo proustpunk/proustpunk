@@ -51,7 +51,7 @@ Designed for precision at scale.
 Backend for conducting timed coding assessments with anti-cheating logic.
 Focus on behavioral integrity and clean evaluation flow.
 
-`Django` `FastAPI` `anti-cheat`
+`Django` `FastAPI` 
 
 ---
 
