@@ -71,7 +71,6 @@ Used only numpy.
 
 - 🟢 Deepening backend architecture patterns
 - 🟢 Building with LangChain, ChromaDB & vector search
-- 🟢 
 - 🟢 Exploring AI-native tooling and RAG pipelines
 
 ---
