@@ -1,6 +1,6 @@
 # hey, I'm Sabin Pyakurel ⚙️
 
-> AI-integration engineer · Backend developer · Systems thinker
+> System Designer · Automation 
 
 🎮 [itch.io](https://seeker13.itch.io)
 
@@ -9,8 +9,8 @@
 ---
 
 Backend developer building practical systems and experimental web applications.
-CS student with a focused interest in system design, applied ML, and AI tooling.
-Comfortable working across the full backend stack — from data pipelines to API design to LLM integration.
+Focused interest in system design, applied ML, and AI tooling.
+Comfortable working across the full backend stack; from data pipelines to API design to LLM integration.
 
 ---
 
@@ -57,13 +57,23 @@ Focus on behavioral integrity and clean evaluation flow.
 
 ---
 
+### 🧪 Transformer From Scratch; Only numpy
+Built a transformer from scratch. 
+Manually computed the gradient descent for my case. 
+Used only numpy.
+
+`numpy`  
+
+---
+
+
 ## 📡 Currently
 
 - 🟢 Deepening backend architecture patterns
 - 🟢 Building with LangChain, ChromaDB & vector search
-- 🟢 Learning React — bridging into frontend
+- 🟢 
 - 🟢 Exploring AI-native tooling and RAG pipelines
 
 ---
 
-<p align="right"><sub>built different. deployed quietly. 🛰</sub></p>
+
