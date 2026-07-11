@@ -8,7 +8,7 @@
 
 ---
 
-Backend developer building practical systems and experimental web applications.
+Programmer building practical systems and automating ruthlessly.
 Focused interest in system design, applied ML, and AI tooling.
 Comfortable working across the full backend stack; from data pipelines to API design to LLM integration.
 
@@ -69,9 +69,9 @@ Used only numpy.
 
 ## 📡 Currently
 
-- 🟢 Deepening backend architecture patterns
-- 🟢 Building with LangChain, ChromaDB & vector search
-- 🟢 Exploring AI-native tooling and RAG pipelines
+-  Deepening backend architecture patterns
+-  Building with LangChain, ChromaDB & vector search
+-  Exploring AI-native tooling and RAG pipelines
 
 ---
 
