@@ -9,7 +9,7 @@
 ---
 
 Programmer building practical systems and automating ruthlessly.
-Focused interest in system design, applied ML, and AI tooling.
+Focused interest in system design, applied ML, mechanterp, and AI tooling.
 Comfortable working across the full backend stack; from data pipelines to API design to LLM integration.
 
 ---
