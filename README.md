@@ -1,78 +1,129 @@
 # hey, I'm Sabin Pyakurel ⚙️
 
-> System Designer · Automation 
+> AI Systems · Research · Mechanistic Interpretability
 
-🎮 [itch.io](https://seeker13.itch.io)
-
-[https://sabin-pyakurel.vercel.app]
-
----
-
-Programmer building practical systems and automating ruthlessly.
-Focused interest in system design, applied ML, mechanterp, and AI tooling.
-Comfortable working across the full backend stack; from data pipelines to API design to LLM integration.
+🎮 [itch.io](https://seeker13.itch.io)  
+🌐 [sabin-pyakurel.vercel.app](https://sabin-pyakurel.vercel.app)
 
 ---
 
-## 🛠 Languages
+AI-focused programmer working across **model internals, representation learning, multimodal systems, and AI applications**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+Interested in understanding not only *how to use models*, but how they **represent information, transform it, and produce behavior**.
 
-## 📦 Frameworks & Tools
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+My work spans transformer architectures, mechanistic interpretability, NLP, embeddings, multimodal AI, retrieval systems, agentic systems, and applied AI research.
 
 ---
 
-## 🚧 Projects
+## 🧠 Areas of Interest
 
-### 📄 Study Made Easier - Talk to your PDF
-Ingest PDFs, extract structured notes, and surface semantically relevant content via vector search.
-Built on LangChain + ChromaDB — turns dense documents into queryable knowledge bases.
+- **Transformers & LLMs**
+  - Transformer architecture
+  - Attention and residual streams
+  - Tokenization and representations
+  - Model intervention and analysis
 
-`LangChain` `ChromaDB` `FastAPI` `Python`
+- **Mechanistic Interpretability**
+  - Activation patching
+  - Ablation experiments
+  - Representation analysis
+  - Causal tracing
+  - Investigating where model behavior lives
+
+- **NLP & Representation Learning**
+  - Embeddings
+  - Semantic representations
+  - Text processing
+  - Information retrieval
+  - Multilingual / Devanagari NLP
+
+- **Multimodal AI**
+  - Vision-language models
+  - Document understanding
+  - OCR / VLM pipelines
+  - Layout and structural understanding
+
+- **RAG & AI Systems**
+  - Retrieval-augmented generation
+  - Agentic RAG
+  - Vector search
+  - Knowledge bases
+  - Context construction
+
+- **Agentic AI**
+  - Tool-using agents
+  - Agent workflows
+  - Autonomous task execution
+  - Multi-step reasoning systems
+
+- **Applied AI**
+  - AI automation
+  - Compliance systems
+  - Document intelligence
+  - Evaluation pipelines
+  - AI-assisted decision systems
 
 ---
 
-### 🤖 Resume Screening System
-ML-powered pipeline for parsing, scoring, and ranking candidate resumes against job descriptions.
-Designed for precision at scale.
+## 🔬 Research / Experiments
 
-`Python` `ML` `ranking logic`
+### Mechanistic Interpretability
 
----
+Experimenting with transformer internals to investigate how specific behaviors emerge and where they are represented inside models.
 
-### 🧪 Technical Test Platform
-Backend for conducting timed coding assessments with anti-cheating logic.
-Focus on behavioral integrity and clean evaluation flow.
+Working with **activation patching, ablation, causal interventions, and layer-wise behavioral analysis** across different language models.
 
-`Django` `FastAPI` 
+`Transformers` `PyTorch` `Mechanistic Interpretability`
 
 ---
 
-### 🧪 Transformer From Scratch; Only numpy
-Built a transformer from scratch. 
-Manually computed the gradient descent for my case. 
-Used only numpy.
+### Multimodal Document Intelligence
 
-`numpy`  
+Building systems around **OCR, document understanding, layout analysis, and vision-language models**, with particular interest in real-world documents and multilingual text.
 
----
-
-
-## 📡 Currently
-
--  Deepening backend architecture patterns
--  Building with LangChain, ChromaDB & vector search
--  Exploring AI-native tooling and RAG pipelines
+`VLMs` `OCR` `NLP` `Document AI`
 
 ---
 
+### Retrieval & Agentic RAG
 
+Building retrieval systems that combine embeddings, vector search, LLM reasoning, and tool use into multi-step AI workflows.
+
+`RAG` `Agentic RAG` `Embeddings` `Vector Search`
+
+---
+
+### Transformer From Scratch
+
+Implemented a transformer architecture from scratch using only NumPy, including the forward pass and manually derived gradient descent.
+
+`Python` `NumPy` `Transformers`
+
+---
+
+## 🛠 Stack
+
+### Languages
+`Python` `C#` `JavaScript` `NumPy`
+
+### AI / ML
+`PyTorch` `Transformers` `Hugging Face` `LangChain`
+
+### AI Systems
+`RAG` `Vector Databases` `Embeddings` `Agents` `VLMs` `OCR`
+
+### Backend / Infrastructure
+`FastAPI` `Django` `REST APIs` `Data Pipelines`
+
+---
+
+## 📡 Currently Exploring
+
+- Mechanistic interpretability of language models
+- Transformer representations and causal interventions
+- Multimodal document intelligence
+- Multilingual NLP and Devanagari models
+- Embedding and representation analysis
+- Agentic RAG architectures
+- AI evaluation and compliance systems
+- AI-native tooling and automation
